@@ -78,14 +78,14 @@ switch (fruit) {
 
 
 
-// let day = "Monday";
+let day = "Monday";
 
-// switch (day) {
-//   case "Monday":
-//     console.log("Start");
-//   case "Tuesday":
-//     console.log("Work");
-// }
+switch (day) {
+  case "Monday":
+    console.log("Start");
+  case "Tuesday":
+    console.log("Work");
+}
 
 
 // break is very important without break j.s keeps running the next cases  both (start and work will be printed)
